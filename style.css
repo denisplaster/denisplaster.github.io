@@ -1,9 +1,10 @@
 body {
 	font: 16px Helvetica, Sans-Serif;
+	background: url(noise.png);
 }
 
 #pic {
-	float: left;
+	float: right;
 }
 
 #button {
