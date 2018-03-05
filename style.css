@@ -1,10 +1,10 @@
 body {
-	font-family: "NHaasGroteskTXPro-55Rg", sans-serif;
+	font-family: NHaasGroteskTXPro-55Rg, sans-serif;
 	background: url(graypattern.gif);
 }
 
 #pic {
-	float: right;
+	float: middle;
 }
 
 #button {
