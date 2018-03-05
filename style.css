@@ -12,6 +12,15 @@ body {
 	font-size: 28px;
 }
 
+#content-contact {
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
+	font-size: 42px;
+	font-weight: bold;
+	letter-spacing: -2px;
+	border-bottom: 1px solid #999;
+}
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
