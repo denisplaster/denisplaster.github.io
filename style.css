@@ -3,6 +3,14 @@ body {
 	background: url(graypattern.gif);
 }
 
+#button {
+	margin-left: 40%;
+	margin-right: 40%;
+	background-color: #213862;
+
+	border-radius: 15px;
+	height: 100px;
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
